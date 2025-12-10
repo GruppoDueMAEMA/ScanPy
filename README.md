@@ -18,28 +18,28 @@ Scanner di rete multi-thread sviluppato in Python per la scoperta di host, scans
         <img src="https://github.com/thevirtueye.png" width="100px;" alt=""/><br />
         <sub><b>Alberto</b></sub>
       </a><br />
-      <a href="#" title="Documentation">📖</a>
+      <a href="#" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/ANTHr0p1c">
-        <img src="https://github.com/ANTHr0p1c.png" width="100px;" alt=""/><br />
+        <img src="https://github.com/ANTHr0p1c-CODE.png" width="100px;" alt=""/><br />
         <sub><b>ANTHr0p1c</b></sub>
       </a><br />
-      <a href="#" title="Documentation">📖</a>
+      <a href="#" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/Neniku">
         <img src="https://github.com/Neniku.png" width="100px;" alt=""/><br />
         <sub><b>Neniku</b></sub>
       </a><br />
-      <a href="#" title="Documentation">📖</a>
+      <a href="#" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/M4nu3lR1cc1">
         <img src="https://github.com/M4nu3lR1cc1.png" width="100px;" alt=""/><br />
         <sub><b>M4nu3lR1cc1</b></sub>
       </a><br />
-      <a href="#" title="Documentation">📖</a>
+      <a href="#" title="Code">💻</a>
     </td>
   </tr>
 </table>
