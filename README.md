@@ -2,7 +2,18 @@
 
 Scanner di rete multi-thread sviluppato in Python per la scoperta di host, scansione porte (TCP/UDP) e fingerprinting passivo del sistema operativo. Progettato per scopi educativi e amministrazione di rete autorizzata.
 
-## Funzionalita'
+## 👥 Team
+
+| Nome | Ruolo | GitHub |
+| :--- | :--- | :--- |
+| **msfire** | Pentester & Python Developer | [@MS-0x404](https://github.com/MS-0x404) |
+| **Alberto** | Developer | [@thevirtueye](https://github.com/thevirtueye) |
+| **ANTHr0p1c** | Developer | [@ANTHr0p1c](https://github.com/ANTHr0p1c) |
+| **Neniku** | Developer | [@Neniku](https://github.com/Neniku) |
+| **M4nu3lR1cc1** | Developer | [@M4nu3lR1cc1](https://github.com/M4nu3lR1cc1) |
+
+
+## Funzionalita
 
 - **Scoperta Host**: Scansione ARP + deep discovery TCP per rilevamento affidabile
 - **Scansione Porte**: Modalita' TCP Connect e UDP
