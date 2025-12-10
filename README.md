@@ -4,14 +4,55 @@ Scanner di rete multi-thread sviluppato in Python per la scoperta di host, scans
 
 ## 👥 Team
 
-| Nome | Ruolo | GitHub |
-| :--- | :--- | :--- |
-| **msfire** | Pentester & Python Developer | [@MS-0x404](https://github.com/MS-0x404) |
-| **Alberto** | Developer | [@thevirtueye](https://github.com/thevirtueye) |
-| **ANTHr0p1c** | Developer | [@ANTHr0p1c](https://github.com/ANTHr0p1c) |
-| **Neniku** | Developer | [@Neniku](https://github.com/Neniku) |
-| **M4nu3lR1cc1** | Developer | [@M4nu3lR1cc1](https://github.com/M4nu3lR1cc1) |
+Grazie a queste persone meravigliose:
 
+<table>
+
+  <tr>
+
+    <td align="center">
+      <a href="https://github.com/MS-0x404">
+        <img src="https://github.com/MS-0x404.png" width="100px;" alt=""/><br />
+        <sub><b>msfire</b></sub>
+      </a><br />
+      <a href="#" title="Code">💻</a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/thevirtueye">
+        <img src="https://github.com/thevirtueye.png" width="100px;" alt=""/><br />
+        <sub><b>Alberto</b></sub>
+      </a><br />
+      <a href="#" title="Documentation">📖</a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/ANTHr0p1c">
+        <img src="https://github.com/ANTHr0p1c.png" width="100px;" alt=""/><br />
+        <sub><b>ANTHr0p1c</b></sub>
+      </a><br />
+      <a href="#" title="Documentation">📖</a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/Neniku">
+        <img src="https://github.com/Neniku.png" width="100px;" alt=""/><br />
+        <sub><b>Neniku</b></sub>
+      </a><br />
+      <a href="#" title="Documentation">📖</a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/M4nu3lR1cc1">
+        <img src="https://github.com/M4nu3lR1cc1.png" width="100px;" alt=""/><br />
+        <sub><b>M4nu3lR1cc1</b></sub>
+      </a><br />
+      <a href="#" title="Documentation">📖</a>
+    </td>
+    
+  </tr>
+
+</table>
 
 ## Funzionalita
 
